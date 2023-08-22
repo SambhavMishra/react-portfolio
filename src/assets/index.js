@@ -4,7 +4,8 @@ import cartoonLogo from "./images/cartoonLogo.ico"
 import logoImage from "./images/logoImage.png"
 import logoImage2 from "./images/logoImage2.png"
 import Logo from "./images/Logo.png"
-import ComputerVisionFinal3 from "./images/ComputerVisionFinal3.png"
+import ComputerVision from "./images/ComputerVision.png"
+import nlp from "./images/nlp.png"
 
 export {
     PortfolioImage,
@@ -13,5 +14,6 @@ export {
     logoImage2,
     PortfolioImage2,
     Logo,
-    ComputerVisionFinal3
+    ComputerVision,
+    nlp
 };

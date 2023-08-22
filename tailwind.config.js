@@ -18,6 +18,7 @@ module.exports = {
       gray: "#a1a1a1",
       blue: "#1144ee",
       boxBg: "linear-gradient(145deg, #1e2024, #23272b)",
+      sky: "#19d3ea",
       // designColor: "#ee964b",
       // designColor: "#d81e5b",
       designColor: "#2274ab",

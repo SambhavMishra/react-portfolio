@@ -33,13 +33,13 @@ function LeftBanner() {
         </h2>
         <div className="flex gap-4">
             <span className="bannerIcon">
-                <FaLinkedin/>
+                <a href="https://www.linkedin.com/in/sambhav-mishra-692529214/" target='blank'><FaLinkedin/></a>
             </span>
             <span className="bannerIcon">
                 <FaGithub/>
             </span>
             <span className="bannerIcon">
-                <FaInstagram/>
+                <a href="https://www.instagram.com/sambhav_mishra_251/" target='blank'><FaInstagram/></a>
             </span>
             <span className="bannerIcon">
                 <FaTwitter/>
